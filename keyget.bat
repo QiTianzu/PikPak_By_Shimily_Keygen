@@ -4,7 +4,7 @@ Title PikPak_By_Shimily_Keygen
 MODE con: Cols=73 Lines=9
 
 echo.
-set /p "=æœºå™¨ç : " < nul
+set /p "=»úÆ÷Âë: " < nul
 for /f "delims=" %%i in ('python %~dp0keygen.py') do (
   set "code=%%i"
 )
@@ -13,7 +13,7 @@ echo %code%
 set "code=%code:~5%"
 set /p "=%code%" < nul | clip
 echo.
-echo æ³¨å†Œç å·²ç»è‡ªåŠ¨å¤åˆ¶åˆ°å‰ªè´´æ¿
+echo ×¢²áÂëÒÑ¾­×Ô¶¯¸´ÖÆµ½¼ôÌù°å
 echo.
-set /p "=æŒ‰ä»»æ„é”®å…³é—­çª—å£" < nul
+set /p "=°´ÈÎÒâ¼ü¹Ø±Õ´°¿Ú" < nul
 pause > nul
